@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\onono\Desktop\VS\KiddEsports\KiddEsports\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="EventsPanel.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="GamePlayedPanel.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Reports.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ResultInput.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="TeamPanel.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ViewResult.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="EventsPanel.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="GamePlayedPanel.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Reports.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ResultInput.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="TeamPanel.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ViewResult.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KiddEsports", "KiddEsports\KiddEsports.csproj", "{9130D63A-8C0F-4DD4-A265-56617C5EFF28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataManagement", "DataManagement\DataManagement.csproj", "{A9D48EF2-7D3C-4E1D-958C-3F5D089220B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9130D63A-8C0F-4DD4-A265-56617C5EFF28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9130D63A-8C0F-4DD4-A265-56617C5EFF28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9130D63A-8C0F-4DD4-A265-56617C5EFF28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9130D63A-8C0F-4DD4-A265-56617C5EFF28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9D48EF2-7D3C-4E1D-958C-3F5D089220B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9D48EF2-7D3C-4E1D-958C-3F5D089220B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9D48EF2-7D3C-4E1D-958C-3F5D089220B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9D48EF2-7D3C-4E1D-958C-3F5D089220B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0DB8B11-976D-4B23-98D3-B9B00449DF9B}
+	EndGlobalSection
+EndGlobal
